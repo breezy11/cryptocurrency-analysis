@@ -103,17 +103,32 @@ analyze(['XRP'], 'USD')
 
 Data statistics
 
-
+|       | XRP         |
+|-------|-------------|
+| count | 1546.000000 |
+| mean  | 0.364597    |
+| std   | 0.302090    |
+| min   | 0.005390    |
+| 25%   | 0.217125    |
+| 50%   | 0.288300    |
+| 75%   | 0.440600    |
+| max   | 2.751000    |
 
 Volatility
 
-
+| XRP | 0.090647 |
+|-----|----------|
 
 Mean / average daily simple return
 
+| XRP | 0.006724 |
+|-----|----------|
 
 Correlation
 
+|     | XRP |
+|-----|-----|
+| XRP | 1.0 |
 
 Price graph
 
