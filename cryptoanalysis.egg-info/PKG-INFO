@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: cryptoanalysis
+Version: 0.0.1
+Summary: Basic analysis and visualization of cryptocurrency digital assets
+Home-page: UNKNOWN
+Author: Branimir Raguž
+Author-email: branimir.raguz11@gmail.com
+License: MIT
+Description: It is a python library I created for fun. It does a simple analysis of cryptocurrencies and plots a few graphs to help visualize the trends.
+        
+        
+        
+        Change Log
+        ==========
+        
+        0.0.1 (10/04/2021)
+        ------------------
+        - First Release
+Keywords: cryptocurrency,finance,stocks
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
