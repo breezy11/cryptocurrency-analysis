@@ -89,11 +89,19 @@ Correlation
 
 Price graph
 
+![Cryptocurrency price graph](https://github.com/breezy11/cryptocurrency-analysis/blob/master/plots/multi/mult-price.png)
+
 Scaled price graph
+
+![Cryptocurrency scaled price graph](https://github.com/breezy11/cryptocurrency-analysis/blob/master/plots/multi/mult-scaled-price.png)
 
 Daily simple returns graph
 
+![Cryptocurrency daily simple returns graph](https://github.com/breezy11/cryptocurrency-analysis/blob/master/plots/multi/mult-simple-returns.png)
+
 Daily cummulative simple returns graph
+
+![Cryptocurrency daily cummulative simple returns graph](https://github.com/breezy11/cryptocurrency-analysis/blob/master/plots/multi/mult-cumm-returns.png)
 
 -------------------------------------------------------------
 
@@ -132,8 +140,16 @@ Correlation
 
 Price graph
 
+![Cryptocurrency price graph](https://github.com/breezy11/cryptocurrency-analysis/blob/master/plots/uni/price-graph.png)
+
 Scaled price graph
+
+![Cryptocurrency scaled price graph](https://github.com/breezy11/cryptocurrency-analysis/blob/master/plots/uni/scaled-price.png)
 
 Daily simple returns graph
 
+![Cryptocurrency daily simple returns graph](https://github.com/breezy11/cryptocurrency-analysis/blob/master/plots/uni/simple-returns.png)
+
 Daily cummulative simple returns graph
+
+![Cryptocurrency daily cummulative simple returns graph](https://github.com/breezy11/cryptocurrency-analysis/blob/master/plots/uni/cumm-returns.png)
