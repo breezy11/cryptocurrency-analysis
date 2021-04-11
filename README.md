@@ -3,7 +3,7 @@
 It is a python library I created for fun. It does a simple analysis of cryptocurrencies and plots a few graphs to help visualize the trends. <br>
 It can also return the historical data of any cryptocurrency.
 
-Data is collected from Bitstamp exchange using cryptocompare API.
+Data is collected from the Bitstamp exchange using cryptocompare API.
 
 ## features
 
@@ -28,7 +28,7 @@ The data frame is filtered, and the NA values are removed.
 
 `analyze(crypto_symbols, currency_symbol)`
 
-Shows the statistic of data (count, mean, max, min, std, correlation, volatility, average daily simple returns). <br>
+Shows the statistics of data (count, mean, max, min, std, correlation, volatility, average daily simple returns). <br>
 Plots four graphs (price, scaled price, daily returns, cummulative daily returns).<br>
 
 ## examples
