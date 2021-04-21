@@ -30,6 +30,7 @@ The data frame is filtered, and the NA values are removed.
 
 Shows the statistics of data (count, mean, max, min, std, correlation, volatility, average daily simple returns). <br>
 Plots four graphs (price, scaled price, daily returns, cummulative daily returns).<br>
+You can analyze one or multiple cryptocurrencies. 
 
 ## examples
 
